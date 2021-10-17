@@ -1,4 +1,4 @@
-# Clinic Booker
+# React Movie
 
 A one-minute demo is worth a thousand words: <https://drive.google.com/file/d/1qbIp5WjTQNj4AxLS3RUUdj6kDrAOAprF/view?usp=sharing>
 
